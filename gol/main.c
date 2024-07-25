@@ -5,8 +5,8 @@
 #include <unistd.h>
 #include <wchar.h>
 
-#define ROWS 50
-#define COLS 50
+#define ROWS 20
+#define COLS 20
 
 #define ALIVE_CHAR ' '
 #define DEAD_CHAR L'\u2588'
